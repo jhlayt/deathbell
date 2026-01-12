@@ -1,4 +1,6 @@
 [changelog]
+  [1143-20260112] - SVN head is now at commit 1143 (rev 3 == 1143 20260112).
+
   [1142-20260111] - Moving to new repo.
 
   [1141-20260110] - Commit before moving to new svn repo/ssh server.
