@@ -1,4 +1,6 @@
 [changelog]
+  [1144-20260113] - Build test, and relative path stuff.
+
   [1143-20260112] - SVN head is now at commit 1143 (rev 3 == 1143 20260112).
 
   [1142-20260111] - Moving to new repo.
@@ -9,7 +11,7 @@
 
   [1139-20260108] - Sysadmin.
 
-  [1138-20260107] - Sysadmin, audio architectture stuff.
+  [1138-20260107] - Sysadmin, audio architecture stuff.
 
   [1137-20260106] - Sysadmin.
 
