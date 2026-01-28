@@ -1,4 +1,7 @@
 [changelog]
+  [1153-20260128] - Implemented audio volume stuff, and master volume
+  mute/unmute.
+
   [1152-20260127] - Artwork / levels.
 
   [1151-20260126] - Fixed bug with ui text flag.
