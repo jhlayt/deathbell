@@ -1,4 +1,5 @@
 [changelog]
+  [1162-20260130] - Some improvements to bloom prepass shader.
   [1161-20260130] - Debugging some ssao quality stuff.
   [1160-20260130] - Added 'level_light_arena' to game resource, level that have
   lights now use that light arena, hopefully no more lighting bugs from
