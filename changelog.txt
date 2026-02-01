@@ -1,4 +1,6 @@
 [changelog]
+  [1168-20260201] - Slider improvements, ui collection improvements, bug fixes,
+  basics of hooking up debug sliders to render settings is now working.
   [1167-20260201] - Added basic core ui slider. Improvements to ui collection
   stuff.
 
