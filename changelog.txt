@@ -1,4 +1,5 @@
 [changelog]
+  [1173-20260202] - Fixed bug with destroying ui collections.
   [1172-20260202] - UI collections can now contain sub collections.
 
   [1171-20260201] - Trying to standardise some of the UI positioning stuff, too
