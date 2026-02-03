@@ -1,4 +1,8 @@
 [changelog]
+  [1179-20260203] - Bug fixes, added a new demo scene to test stuff, converting
+  textures to .dds now check to make sure textures have multiple of 4 dimensions
+  for directx BC compression (requires mul 4), if they don't they get rounded to
+    nearest multiple.
   [1178-20260203] - Some bug fixes around the material changes.
   [1177-20260203] - Basics of changing the model architecture to use materials
   directly, similar to how ui sprites handle materials.
