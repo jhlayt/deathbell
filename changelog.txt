@@ -1,4 +1,5 @@
 [changelog]
+  [1178-20260203] - Some bug fixes around the material changes.
   [1177-20260203] - Basics of changing the model architecture to use materials
   directly, similar to how ui sprites handle materials.
 
