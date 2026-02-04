@@ -1,4 +1,13 @@
 [changelog]
+  [1182-20260204] - A lot of changes, mainly that shadow resolution is now moved
+  to a prepass (run just before bloom), and no longer part of composite passes.
+  This will be slightly faster for the cost of a R32 buffer, but most
+  importantly it allows me to clip the bloom to the shadows in the bloom pass,
+  previously I clipped the bloom to the shadows in the composite but because the
+  bloom had already been blurred it killed a lot of the bloom effect, now the
+  bloom is clipped before it is blurred, looks much much better. A few bugfixes,
+  added some more slider control for ssao. The new demo scene is working fine
+  now, 20mil tris at 200fps in debug without any culling.
   [1181-20260204] - Added 'stranded_bytes' to memory arena, kinda like
   intentional soft memory leak (debug only), for hacky things where I need to
   'free' on the memory arena (which you can't do non-linearly), so I'm just
