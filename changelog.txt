@@ -1,4 +1,5 @@
 [changelog]
+  [1186-20260206] - Testing some demo scenes.
   [1185-20260206] - Adding submesh support for instanced meshes.
   [1184-20260206] - Fixed resource hotload bug.
 
