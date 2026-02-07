@@ -1,4 +1,7 @@
 [changelog]
+  [1190-20260207] - Added a frustum approximate bbox, using this for approximate
+  culling now, should be faster than fully accurate testing and will let some
+  meshes that would have contributed shadow data contribute.
   [1189-20260207] - Added jpg/jpeg dimension lookup for texconv stuff.
   [1188-20260207] - Frustum culling working again. Fixed a few bugs with
   transparency/shadow pass still rendering culled meshes.
