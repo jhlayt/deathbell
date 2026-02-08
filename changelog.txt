@@ -1,4 +1,7 @@
 [changelog]
+  [1193-20260208] - Working on splitting memory arena debug stuff between game
+  layer and other (core/plat/etc), so that hotload doesnt bug out the debug
+  stuff.
   [1192-20260208] - Fixed bug with code hotload.
   [1191-20260208] - Materials with fixed textures (noises etc) now offset before
   rendering to allow for model texture to take slot 0.
