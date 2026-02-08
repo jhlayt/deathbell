@@ -1,4 +1,7 @@
 [changelog]
+  [1191-20260208] - Materials with fixed textures (noises etc) now offset before
+  rendering to allow for model texture to take slot 0.
+
   [1190-20260207] - Added a frustum approximate bbox, using this for approximate
   culling now, should be faster than fully accurate testing and will let some
   meshes that would have contributed shadow data contribute.
