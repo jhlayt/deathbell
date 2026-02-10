@@ -1,4 +1,7 @@
 [changelog]
+  [1199-20260210] - So the cache builds are working as they were before now,
+  just better, faster/less memory. Just got the bundle stuff to do now.
+
   [1198-20260209] - More progress, basic building of cache file stuff is working
   again.
   [1197-20260209] - Progress on resource stuff. Also optimised some file
