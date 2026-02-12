@@ -1,4 +1,10 @@
 [changelog]
+  [1204-20260212] - Input layout shaders are now embedded to c arrays and
+  compiled along with the platform layer. Can now get resource as a plain blob.
+  Updating all hardcoded paths to only use relative paths, or bundles. Release
+  build now resolves all resource paths correctly, final release is just .exe
+  and the bundle data files.
+
   [1203-20260211] - Some cleanup and testing release build with bundles.
   [1202-20260211] - Bundle loading and reading resources working.
   [1201-20260211] - Compressed bundle writing now working again, just
