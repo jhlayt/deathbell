@@ -1,4 +1,5 @@
 [changelog]
+  [1207-20260213] - Prototyping 1-59.
   [1206-20260213] - Cleanup. Simplified memory initial sizes.
 
   [1205-20260212] - Added build.bat path to build final release build,
