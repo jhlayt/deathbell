@@ -1,4 +1,6 @@
 [changelog]
+  [1208-20260214] - Prototyping 1-60.
+
   [1207-20260213] - Prototyping 1-59.
   [1206-20260213] - Cleanup. Simplified memory initial sizes.
 
