@@ -1,4 +1,5 @@
 [changelog]
+  [1215-20260219] - Fixed all dx warnings/errors.
   [1214-20260219] - Some improvements to blooms, added sotc/ico depth
   contribution to bloom, also added 'pupil' setting to camera. Fixed some bugs
   with downres.
