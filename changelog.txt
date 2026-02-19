@@ -1,4 +1,7 @@
 [changelog]
+  [1214-20260219] - Some improvements to blooms, added sotc/ico depth
+  contribution to bloom, also added 'pupil' setting to camera. Fixed some bugs
+  with downres.
   [1213-20260219] - Prototyping 1-65.
 
   [1212-20260218] - Prototyping 1-64.
