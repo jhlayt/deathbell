@@ -1,4 +1,6 @@
 [changelog]
+  [1220-20260221] - Bug fixes/bug hunting.
+
   [1219-20260220] - Improved dir light frustum stuff, added improved point light rendering, now has a screenspace 'glow'. Prototyping 1-69.
   [1218-20260220] - Various bug fixes. Added screen space sphere around point
   lights, this is in addition to the normal based point light stuff. Prototyping
