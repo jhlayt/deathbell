@@ -1,4 +1,5 @@
 [changelog]
+  [1223-20260222] - Prototyping 1-70.
   [1222-20260222] - Fixed some bugs with shadow mapping ortho box stuff.
 
   [1221-20260221] - Changed how I resize framebuffers, no longer done on ratio
