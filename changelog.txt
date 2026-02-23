@@ -1,4 +1,7 @@
 [changelog]
+  [1229-20260223] - Core text stuff doesn't track any position or transform pin
+  stuff anymore, that stuff moved to game layer - doesn't make sense to bloat
+  core for this.
   [1228-20260223] - Fixed bug with world to screen, forgot to update it after maths changes.
   [1227-20260223] - Prototyping 1-72.
   [1226-20260223] - Some more shadow stuff.
