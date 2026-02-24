@@ -1,4 +1,6 @@
 [changelog]
+  [1232-20260224] - Debugging locator stuff.
+
   [1231-20260223] - Using f32 for text scale multiplier now. Prototyping 1-74.
   [1230-20260223] - Prototyping 1-73.
   [1229-20260223] - Core text stuff doesn't track any position or transform pin
