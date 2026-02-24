@@ -1,4 +1,5 @@
 [changelog]
+  [1235-20260224] - Prototyping 1-76.
   [1234-20260224] - Added some stuff to set controller vibration motors.
   [1233-20260224] - Model data locators are stored with index array instead of
   hash table now. Improvements to locator handling. Prototyping 1-75.
