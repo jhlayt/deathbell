@@ -1,4 +1,6 @@
 [changelog]
+  [1233-20260224] - Model data locators are stored with index array instead of
+  hash table now. Improvements to locator handling. Prototyping 1-75.
   [1232-20260224] - Debugging locator stuff.
 
   [1231-20260223] - Using f32 for text scale multiplier now. Prototyping 1-74.
