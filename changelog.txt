@@ -1,4 +1,6 @@
 [changelog]
+  [1237-20260225] - Prototyping 1-78.
+
   [1236-20260224] - Prototyping 1-77.
   [1235-20260224] - Prototyping 1-76.
   [1234-20260224] - Added some stuff to set controller vibration motors.
