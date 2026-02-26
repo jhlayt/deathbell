@@ -1,5 +1,8 @@
 [changelog]
-  [1240-20260225] - Bug fixes, and changes to how I handle collision layers. Prototyping 1-81.
+  [1241-20260226] - Prototyping 1-82.
+
+  [1240-20260225] - Bug fixes, and changes to how I handle collision layers.
+  Prototyping 1-81.
   [1239-20260225] - Prototyping 1-80.
   [1238-20260225] - Prototyping 1-79.
   [1237-20260225] - Prototyping 1-78.
