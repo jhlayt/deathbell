@@ -1,4 +1,5 @@
 [changelog]
+  [1243-20260226] - Prototyping 1-84.
   [1242-20260226] - Prototyping 1-83.
   [1241-20260226] - Prototyping 1-82.
 
