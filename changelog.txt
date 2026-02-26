@@ -1,4 +1,5 @@
 [changelog]
+  [1247-20260226] - Prototyping 1-87.
   [1246-20260226] - Prototyping 1-86.
   [1245-20260226] - Added icon to win32 title and .exe.
   [1244-20260226] - Prototyping 1-85.
