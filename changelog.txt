@@ -1,4 +1,6 @@
 [changelog]
+  [1250-20260227] - Engine renamed. The old name (MEMO67) has been ruined for me
+  by the '67' meme. For the record, I had the old engine name way before the meme.
   [1249-20260227] - Prototyping 1-89.
   [1248-20260227] - Prototyping 1-88.
 
@@ -2549,7 +2551,7 @@
                - Some minor changes to cameras and how frustums are stored.
                - Re-enabled sprite batcher with new depth sorting stuff, it's in a basic working mode, needs to be bullet-proofed.
                - Restructured the line renderer, no longer has a 'line_renderer' object, just basic functions. The new model is similar to 
-               the primitive/collider/MEMO67_handle.
+               the primitive/collider/DBELL_handle.
 
   [097-300123] - Added on_collide functions for colliders.
                - Removed 'rect_2d', now there's just bbox and a separate collider struct.
