@@ -1,4 +1,5 @@
 [changelog]
+  [1252-20260228] - Prototyping 1-90.
   [1251-20260228] - Fixed bug with drawing debug triangle soup.
 
   [1250-20260227] - Engine renamed. The old name (MEMO67) has been ruined for me
