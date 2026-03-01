@@ -1,4 +1,5 @@
 [changelog]
+  [1258-20260301] - Software renderer stuff.
   [1257-20260301] - Very basics of software renderer working. Got basic Bresenham line raster, and triangle raster
   working, and can draw mesh_renderer. Also fixed some maths bugs with
   matrix*v4f mul order.
