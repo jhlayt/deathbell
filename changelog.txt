@@ -1,4 +1,6 @@
 [changelog]
+  [1255-20260301] - Prototyping 1-92.
+
   [1254-20260228] - Prototyping 1-91.
   [1253-20260228] - Added some outline mesh stuff. Also fixed a bug with
   build.bat.
