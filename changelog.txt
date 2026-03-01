@@ -1,4 +1,7 @@
 [changelog]
+  [1259-20260301] - Added normal map, depth, and texture mapping to software
+  renderering, texture mapping only for bmp for now, everything is built for dds
+  for gpu pipeline but I don't have any cpu side dds decode stuff.
   [1258-20260301] - Software renderer stuff.
   [1257-20260301] - Very basics of software renderer working. Got basic Bresenham line raster, and triangle raster
   working, and can draw mesh_renderer. Also fixed some maths bugs with
