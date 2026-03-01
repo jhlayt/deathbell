@@ -1,4 +1,6 @@
 [changelog]
+  [1260-20260301] - Some bug fixes for release build. And some bug fixes in
+  software renderer.
   [1259-20260301] - Added normal map, depth, and texture mapping to software
   renderering, texture mapping only for bmp for now, everything is built for dds
   for gpu pipeline but I don't have any cpu side dds decode stuff.
