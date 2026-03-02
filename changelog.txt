@@ -1,4 +1,6 @@
 [changelog]
+  [1262-20260302] - Finished software renderer for now, disabled it. Back to
+  game work.
   [1261-20260302] - Added multithreading to software renderer. All this code is
   pretty scrappy, but runs faster than I thought it would, like 50fps with 200k
   tris, plenty of spots to optimisation as well.
