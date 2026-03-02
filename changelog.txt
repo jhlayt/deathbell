@@ -1,4 +1,5 @@
 [changelog]
+  [1263-20260302] - Prototyping 1-93.
   [1262-20260302] - Finished software renderer for now, disabled it. Back to
   game work.
   [1261-20260302] - Added multithreading to software renderer. All this code is
