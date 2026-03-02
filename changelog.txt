@@ -1,4 +1,8 @@
 [changelog]
+  [1261-20260302] - Added multithreading to software renderer. All this code is
+  pretty scrappy, but runs faster than I thought it would, like 50fps with 200k
+  tris, plenty of spots to optimisation as well.
+
   [1260-20260301] - Some bug fixes for release build. And some bug fixes in
   software renderer.
   [1259-20260301] - Added normal map, depth, and texture mapping to software
