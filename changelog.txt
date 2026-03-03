@@ -1,4 +1,5 @@
 [changelog]
+  [1267-20260303] - Accounting for aspect ratio changes for text placement.
   [1266-20260303] - Some bug fixes and improvement to ui and text positioning
   stuff.
   [1265-20260303] - Added mul_point and mul_vec, for v3f * m4x4, I may have been
