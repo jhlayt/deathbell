@@ -1,4 +1,6 @@
 [changelog]
+  [1266-20260303] - Some bug fixes and improvement to ui and text positioning
+  stuff.
   [1265-20260303] - Added mul_point and mul_vec, for v3f * m4x4, I may have been
   setting .w to 1 even for dir vecotrs when multiplying v3f by m4x4 previously.
   oops.
