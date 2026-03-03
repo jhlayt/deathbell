@@ -1,4 +1,6 @@
 [changelog]
+  [1268-20260303] - Fixed some ui stuff. Added better colour setting for ui.
+  Need to rewrite my sprite batcher at some point.
   [1267-20260303] - Accounting for aspect ratio changes for text placement.
   [1266-20260303] - Some bug fixes and improvement to ui and text positioning
   stuff.
