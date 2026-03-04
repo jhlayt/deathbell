@@ -1,4 +1,6 @@
 [changelog]
+  [1273-20260304] - Fixed bug with 0 index for ui. Added better ui selected
+  border. Some other improvements and bug fixes.
   [1272-20260304] - Prototyping 0-98.
   [1271-20260304] - Prototyping 0-97.
   [1270-20260304] - Some minor changes to collision handling. Some bug fixes to
