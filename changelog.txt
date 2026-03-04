@@ -1,4 +1,6 @@
 [changelog]
+  [1270-20260304] - Some minor changes to collision handling. Some bug fixes to
+  debug msg stuff. Prototyping 0-96.
   [1269-20260304] - Prototyping 0-95.
 
   [1268-20260303] - Fixed some ui stuff. Added better colour setting for ui.
