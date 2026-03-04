@@ -1,4 +1,6 @@
 [changelog]
+  [1269-20260304] - Prototyping 0-95.
+
   [1268-20260303] - Fixed some ui stuff. Added better colour setting for ui.
   Need to rewrite my sprite batcher at some point.
   [1267-20260303] - Accounting for aspect ratio changes for text placement.
