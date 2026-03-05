@@ -1,4 +1,5 @@
 [changelog]
+  [1275-20260305] - Prototyping 0-100.
   [1274-20260305] - Prototyping 0-99.
 
   [1273-20260304] - Fixed bug with 0 index for ui. Added better ui selected
