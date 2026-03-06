@@ -1,4 +1,5 @@
 [changelog]
+  [1278-20260306] - Prototyping 0-102.
   [1277-20260306] - Some changes to setting ui callbacks.
 
   [1276-20260305] - Prototyping 0-101.
