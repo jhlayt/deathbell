@@ -1,4 +1,6 @@
 [changelog]
+  [1286-20260308] - Prototyping 0-108.
+
   [1285-20260307] - Prototyping 0-107.
   [1284-20260307] - Few bug fixes.
   [1283-20260307] - Some bug fixes for ui hide/show independent of parent.
