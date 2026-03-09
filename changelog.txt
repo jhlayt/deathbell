@@ -1,4 +1,6 @@
 [changelog]
+  [1287-20260309] - Prototyping 0-109, some ui helper funcs.
+
   [1286-20260308] - Prototyping 0-108.
 
   [1285-20260307] - Prototyping 0-107.
