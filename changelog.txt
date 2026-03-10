@@ -1,4 +1,5 @@
 [changelog]
+  [1291-20260310] - UI now getting drawn in sort order again.
   [1290-20260310] - Some sort order stuff, few ui changes.
 
   [1289-20260309] - Fixed bug with drawing debug with screen to world.
