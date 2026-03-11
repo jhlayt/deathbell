@@ -1,4 +1,8 @@
 [changelog]
+  [1292-20260311] - Some more ui stuff, removed the idea of locking ui, replaced
+  it with a flag to set if the ui is selectable, to fake 'lock' now just add a
+  parent full screen ui_empty.
+
   [1291-20260310] - UI now getting drawn in sort order again.
   [1290-20260310] - Some sort order stuff, few ui changes.
 
