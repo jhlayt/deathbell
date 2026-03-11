@@ -1,4 +1,6 @@
 [changelog]
+  [1294-20260311] - Prototyping 1-110, just noticed I have been noting prototype
+  1 as 0 since 0-95.
   [1293-20260311] - Changed UI grid positioning stuff to f32 not s16.
   [1292-20260311] - Some more ui stuff, removed the idea of locking ui, replaced
   it with a flag to set if the ui is selectable, to fake 'lock' now just add a
