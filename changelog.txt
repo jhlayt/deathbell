@@ -1,4 +1,5 @@
 [changelog]
+  [1299-20260312] - Some improvements to raycasting colliders.
   [1298-20260312] - Fixed bug with trisoup y raycast.
   [1297-20260312] - Prototyping 1-113.
   [1296-20260312] - Prototyping 1-112.
