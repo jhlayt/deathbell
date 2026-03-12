@@ -1,4 +1,6 @@
 [changelog]
+  [1296-20260312] - Prototyping 1-112.
+
   [1295-20260311] - Prototyping 1-111.
   [1294-20260311] - Prototyping 1-110, just noticed I have been noting prototype
   1 as 0 since 0-95.
