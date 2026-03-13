@@ -1,4 +1,5 @@
 [changelog]
+  [1302-20260313] - Fixed bug with hot recompiling, dll naming was not updating.
   [1301-20260313] - Fixed bounds checking bug with triangle soup, and fixed bug
   with triangle soup off by one when initialising dimensions.
   [1300-20260313] - Prototyping 1-114.
