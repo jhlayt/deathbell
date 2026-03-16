@@ -1,4 +1,5 @@
 [changelog]
+  [1306-20260316] - Prototyping 1-118.
   [1305-20260316] - Prototyping 1-117. Some bug fixes and improvements around
   hotloading stuff. 
 
