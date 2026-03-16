@@ -1,4 +1,7 @@
 [changelog]
+  [1305-20260316] - Prototyping 1-117. Some bug fixes and improvements around
+  hotloading stuff. 
+
   [1304-20260315] - Prototyping 1-116.
 
   [1303-20260314] - Prototyping 1-115. Added cull_none to mesh render flags.
