@@ -1,4 +1,7 @@
 [changelog]
+  [1307-20260317] - Fixed bug with text not hiding properly if ui_element had
+  parent. Prototyping 1-119.
+
   [1306-20260316] - Prototyping 1-118.
   [1305-20260316] - Prototyping 1-117. Some bug fixes and improvements around
   hotloading stuff. 
