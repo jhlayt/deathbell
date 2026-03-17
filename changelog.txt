@@ -1,4 +1,5 @@
 [changelog]
+  [1309-20260317] - Wip navmesh stuff, mostly there, too tired to reimplemente A* for navmesh.
   [1308-20260317] - Prototyping 1-120. About to start implementing navmesh
   stuff, grid based A* isn't quite cutting it.
   [1307-20260317] - Fixed bug with text not hiding properly if ui_element had
