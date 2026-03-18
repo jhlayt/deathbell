@@ -1,4 +1,7 @@
 [changelog]
+  [1310-20260318] - Navmesh a* mostly working, just need to improve the
+  heuristic.
+
   [1309-20260317] - Wip navmesh stuff, mostly there, too tired to reimplemente A* for navmesh.
   [1308-20260317] - Prototyping 1-120. About to start implementing navmesh
   stuff, grid based A* isn't quite cutting it.
