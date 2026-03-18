@@ -1,7 +1,8 @@
 [changelog]
+  [1313-20260318] - Few bug fixes with navmesh stuff + testing with prototype.
   [1312-20260318] - Funnel/string pulling all working now, also resampling the
   navmesh to keep consistent spacing for final path (and to keep y on the
-  navmesh).
+  navmesh). Still need to do a cleanup pass.
   [1311-20260318] - Navmesh a* working nicely, going to implement funnel/string
   pulling now.
   [1310-20260318] - Navmesh a* mostly working, just need to improve the
