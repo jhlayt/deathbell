@@ -1,4 +1,6 @@
 [changelog]
+  [1311-20260318] - Navmesh a* working nicely, going to implement funnel/string
+  pulling now.
   [1310-20260318] - Navmesh a* mostly working, just need to improve the
   heuristic.
 
