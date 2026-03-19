@@ -1,4 +1,7 @@
 [changelog]
+  [1314-20260319] - Cleaned up navmesh stuff, replaced dynamic arrays with fixed
+  arrays on path calculations.
+
   [1313-20260318] - Few bug fixes with navmesh stuff + testing with prototype.
   [1312-20260318] - Funnel/string pulling all working now, also resampling the
   navmesh to keep consistent spacing for final path (and to keep y on the
