@@ -1,4 +1,5 @@
 [changelog]
+  [1317-20260319] - Couple bug fixes. Prototyping 1-121.
   [1316-20260319] - Scratch that, >400fps 100 paths per frame, just using a
   smaller octtree cell size for pathfinding, slightly more ram use tho.
   [1315-20260319] - Put navmesh nodes into an octtree, basically a copy of the
