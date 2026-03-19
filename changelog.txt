@@ -1,4 +1,6 @@
 [changelog]
+  [1316-20260319] - Scratch that, >400fps 100 paths per frame, just using a
+  smaller octtree cell size for pathfinding, slightly more ram use tho.
   [1315-20260319] - Put navmesh nodes into an octtree, basically a copy of the
   triangle soup octree stuff, few optimisations, currently does 100 paths per
   frame with 240tri navmesh at >120fps in debug.
