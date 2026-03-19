@@ -1,4 +1,7 @@
 [changelog]
+  [1315-20260319] - Put navmesh nodes into an octtree, basically a copy of the
+  triangle soup octree stuff, few optimisations, currently does 100 paths per
+  frame with 240tri navmesh at >120fps in debug.
   [1314-20260319] - Cleaned up navmesh stuff, replaced dynamic arrays with fixed
   arrays on path calculations.
 
