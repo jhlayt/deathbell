@@ -1,4 +1,6 @@
 [changelog]
+  [1322-20260320] - Artwork stuff.
+
   [1321-20260319] - Collision velocity no longer gets changed when
   COLLISION_NEVER_RESOLVE is set. Few changes to vector member funcs and
   overloads.
