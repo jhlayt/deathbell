@@ -1,4 +1,5 @@
 [changelog]
+  [1323-20260320] - More artwork.
   [1322-20260320] - Artwork stuff.
 
   [1321-20260319] - Collision velocity no longer gets changed when
