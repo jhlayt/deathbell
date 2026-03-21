@@ -1,4 +1,5 @@
 [changelog]
+  [1326-20260321] - Prototyping 1-126.
   [1325-20260321] - Prototyping 1-125.
   [1324-20260321] - Added basic text wrapping.
 
