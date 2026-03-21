@@ -1,4 +1,6 @@
 [changelog]
+  [1324-20260321] - Added basic text wrapping.
+
   [1323-20260320] - More artwork.
   [1322-20260320] - Artwork stuff.
 
