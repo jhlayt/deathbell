@@ -1,4 +1,10 @@
 [changelog]
+  [1328-20260322] - Down a rabbit hole of different language encoding systems,
+  working on implementing jis x 0208 internally but authoring with shift jis,
+  should work, just working on conversions between the two encodings, too tired
+  to finish it now. (using jis x 0208 coz it has a reasonable number of
+  characters for the bitmap)
+
   [1327-20260321] - Prototyping 1-127. Planning on changing how I store ui text
   to support some other language stuff.
   [1326-20260321] - Prototyping 1-126.
