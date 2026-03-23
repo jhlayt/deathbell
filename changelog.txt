@@ -1,4 +1,8 @@
 [changelog]
+  [1329-20260323] - Got the shift jis to jis x 0208 working, japanese text
+  displaying in game now. Going to integrate this system better and do a load of
+  cleanup. Will add latin 8859-1 back in now as well.
+
   [1328-20260322] - Down a rabbit hole of different language encoding systems,
   working on implementing jis x 0208 internally but authoring with shift jis,
   should work, just working on conversions between the two encodings, too tired
