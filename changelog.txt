@@ -1,4 +1,6 @@
 [changelog]
+  [1331-20260323] - Documenting some implementation stuff, minor cleanup, added
+  back latin 8859-1.
   [1330-20260323] - Implemented sdf bitmap for jis x 0208, still working out how
   I actually want to handle the bitmap(s) for this stuff, for now I'm simply
   using fixed width grid sdf bitmap for the entire character set. I think in
