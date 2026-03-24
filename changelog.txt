@@ -1,4 +1,7 @@
 [changelog]
+  [1335-20260324] - Now able to set a fixed max size character count for
+  character_idx, stops thrashing the flex_allocator if a max bounds is known.
+  Taking the rest of the day off, gunna play OoT.
   [1334-20260324] - Fixed bug with text flex alloc bounds.
   [1333-20260324] - Some more text changes, all text u16 _characters_idx now
   uses a fixed flex_allocator. Removed all mstring stuff from text and replaced
