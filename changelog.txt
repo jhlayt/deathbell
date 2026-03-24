@@ -1,4 +1,6 @@
 [changelog]
+  [1332-20260324] - Improvements to text language stuff.
+
   [1331-20260323] - Documenting some implementation stuff, minor cleanup, added
   back latin 8859-1.
   [1330-20260323] - Implemented sdf bitmap for jis x 0208, still working out how
