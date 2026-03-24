@@ -1,4 +1,5 @@
 [changelog]
+  [1334-20260324] - Fixed bug with text flex alloc bounds.
   [1333-20260324] - Some more text changes, all text u16 _characters_idx now
   uses a fixed flex_allocator. Removed all mstring stuff from text and replaced
   old mstring stuff with new character_idx stuff. All new text/lang stuff
