@@ -1,4 +1,7 @@
 [changelog]
+  [1338-20260325] - Doing some art testing, started work on importing vertex
+  colours from gltf, just need to extend custom model format, should be straight
+  forward.
   [1337-20260325] - Some more bug fixes and improvements to text.
   [1336-20260325] - Added handling for single byte characters in sjis/0208 stuff,
   forgot to do it before, also added some error checking around parsing sjis.
