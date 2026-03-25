@@ -1,4 +1,7 @@
 [changelog]
+  [1336-20260325] - Added handling for single byte characters in sjis/0208 stuff,
+  forgot to do it before, also added some error checking around parsing sjis.
+
   [1335-20260324] - Now able to set a fixed max size character count for
   character_idx, stops thrashing the flex_allocator if a max bounds is known.
   Taking the rest of the day off, gunna play OoT.
