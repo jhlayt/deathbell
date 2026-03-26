@@ -1,4 +1,9 @@
 [changelog]
+  [1339-20260326] - Added vertex colours to gltf and custom model format, and
+  added all the primitive/gpu buffer stuff for it, all working, though there is
+  an edge case or two from the gltf spec I'm not handling yet. Also think I may
+  have a colour space bug with it, investigating now.
+
   [1338-20260325] - Doing some art testing, started work on importing vertex
   colours from gltf, just need to extend custom model format, should be straight
   forward.
