@@ -1,4 +1,5 @@
 [changelog]
+  [1345-20260327] - Artwork stuff.
   [1344-20260327] - Samplers no longer get changed in render state update, I'm
   just binding a fixed set of samplers and shader can select from those.
   [1343-20260327] - Artwork testing.
