@@ -1,4 +1,6 @@
 [changelog]
+  [1342-20260326] - Vert colours on mesh defaulted to 0xffffffff now.
+
   [1341-20260326] - Noticed I'm not properly srgb compliant w gamma conversions
   etc, the vertex colour stuff made it obvious as the art in blender wasn't
   matching 1-1, so fixed all that stuff, will have to adjust composite shaders
