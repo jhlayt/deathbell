@@ -1,4 +1,5 @@
 [changelog]
+  [1347-20260328] - Basic matcap testing.
   [1346-20260328] - Testing gouraud again, not sure which look I prefer.
 
   [1345-20260327] - Artwork stuff.
