@@ -1,4 +1,5 @@
 [changelog]
+  [1350-20260328] - Basic godray shader. Can fully disable/toggle ui/text now.
   [1349-20260328] - Some shader art stuff.
   [1348-20260328] - Some bug fixes and matcap stuff.
   [1347-20260328] - Basic matcap testing.
