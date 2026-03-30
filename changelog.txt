@@ -1,5 +1,10 @@
 [changelog]
+  [1353-20260330] - Few changes to transparency blend, some shader stuff. Kinda
+  moved to a gouraud model with some changes to lighting constant buffer, but
+  not sure how I want to handle point lights and shows etc.
+
   [1352-20260329] - Few bug fixes, changed the packing of lighting cbuf struct, some shader stuff.
+  [1351-20260329] - Bit of art/shade stuff.
   [1351-20260329] - Bit of art/shade stuff.
 
   [1350-20260328] - Basic godray shader. Can fully disable/toggle ui/text now.
