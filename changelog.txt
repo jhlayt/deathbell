@@ -1,4 +1,6 @@
 [changelog]
+  [1356-20260330] - Fixed ssao, now reconstructing normal from depth for ssao
+  pass.
   [1355-20260330] - Wip for render target setup.
   [1354-20260330] - Commit before testing some changes to render target stuff.
   [1353-20260330] - Few changes to transparency blend, some shader stuff. Kinda
