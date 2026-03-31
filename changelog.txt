@@ -1,4 +1,7 @@
 [changelog]
+  [1359-20260331] - Now merging triangles when testing triangle soup, this is to
+  try and get rid of the bug with sticking to triangle seams as collision
+  transition between triangles.
   [1358-20260331] - Working on better collision velocity integration.
   [1357-20260331] - Some cleanup.
 
