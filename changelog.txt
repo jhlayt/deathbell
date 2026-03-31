@@ -1,4 +1,5 @@
 [changelog]
+  [1358-20260331] - Working on better collision velocity integration.
   [1357-20260331] - Some cleanup.
 
   [1356-20260330] - Fixed ssao, now reconstructing normal from depth for ssao
