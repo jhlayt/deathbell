@@ -1,4 +1,6 @@
 [changelog]
+  [1361-20260401] - More improvements to triangle soups stuff, fixed bug where I
+  wasn't testing all cells in cases where a point straddles multiple.
   [1360-20260401] - Triangle soup is now built upfront with triangle groups
   where a shared normal is calculated if the triangles share a vert and the
   normals are similar enough.
