@@ -1,4 +1,8 @@
 [changelog]
+  [1360-20260401] - Triangle soup is now built upfront with triangle groups
+  where a shared normal is calculated if the triangles share a vert and the
+  normals are similar enough.
+
   [1359-20260331] - Now merging triangles when testing triangle soup, this is to
   try and get rid of the bug with sticking to triangle seams as collision
   transition between triangles.
