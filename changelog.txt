@@ -1,4 +1,5 @@
 [changelog]
+  [1362-20260401] - Some more collision/trisoup stuff. And some art stuff.
   [1361-20260401] - More improvements to triangle soups stuff, fixed bug where I
   wasn't testing all cells in cases where a point straddles multiple.
   [1360-20260401] - Triangle soup is now built upfront with triangle groups
