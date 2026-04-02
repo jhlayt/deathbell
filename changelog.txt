@@ -1,4 +1,6 @@
 [changelog]
+  [1364-20260402] - Prototyping 1-129.
+
   [1363-20260401] - Prototyping 1-128.
   [1362-20260401] - Some more collision/trisoup stuff. And some art stuff.
   [1361-20260401] - More improvements to triangle soups stuff, fixed bug where I
