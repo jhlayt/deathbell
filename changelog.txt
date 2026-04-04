@@ -1,4 +1,5 @@
 [changelog]
+  [1368-20260404] - Added stb_vorbis for .ogg decoding.
   [1367-20260404] - Artwork and testing some audio stuff.
 
   [1366-20260403] - Prototyping 1-131.
