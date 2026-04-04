@@ -1,4 +1,6 @@
 [changelog]
+  [1367-20260404] - Artwork and testing some audio stuff.
+
   [1366-20260403] - Prototyping 1-131.
 
   [1365-20260402] - Prototyping 1-130.
