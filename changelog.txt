@@ -1,4 +1,5 @@
 [changelog]
+  [1371-20260405] - Fixed bug with mono voices.
   [1370-20260405] - Audio stuff, panning and attenuation working again. Still
   need to comb over stb_vorbis - getting some crackling from my memory stuff.
   [1369-20260405] - More work on ogg stuff, some changes to actual audio
