@@ -1,6 +1,8 @@
 [changelog]
+  [1370-20260405] - Audio stuff, panning and attenuation working again. Still
+  need to comb over stb_vorbis - getting some crackling from my memory stuff.
   [1369-20260405] - More work on ogg stuff, some changes to actual audio
-  handling, working on converting stb_vorbit to use my memory architecture.
+  handling, working on converting stb_vorbis to use my memory architecture.
 
   [1368-20260404] - Added stb_vorbis for .ogg decoding.
   [1367-20260404] - Artwork and testing some audio stuff.
