@@ -1,4 +1,9 @@
 [changelog]
+  [1372-20260406] - Fixed crackling bug and stb_vorbis now only using my memory
+  model, no mallocs/frees, just got to make sure I'm not breaking anything by
+  popping the full memory arena instead of calling the default stb deinit/free,
+  seem fine tho.
+
   [1371-20260405] - Fixed bug with mono voices.
   [1370-20260405] - Audio stuff, panning and attenuation working again. Still
   need to comb over stb_vorbis - getting some crackling from my memory stuff.
