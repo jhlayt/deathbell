@@ -1,4 +1,8 @@
 [changelog]
+  [1375-20260407] - Move audio stuff, in a pretty good spot rn, further
+  integration of sound banks etc. Kinda have a duplicated api for platform and
+  core audio but don't really see a clean way around it whilst still being able
+  to easily swap in a differen platform audio backend.
   [1374-20260407] - Improvements to sound handling api and audio handling on
   platform layer, some cleanup around naming and return types. Adding
   'soundbank' manager in game layer, but this may be moved to core.
