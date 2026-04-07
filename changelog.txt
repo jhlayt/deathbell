@@ -1,4 +1,7 @@
 [changelog]
+  [1374-20260407] - Improvements to sound handling api and audio handling on
+  platform layer, some cleanup around naming and return types. Adding
+  'soundbank' manager in game layer, but this may be moved to core.
   [1373-20260407] - Further modification of stb_vorbis. Working on improving
   sound managing. Added small custom audio file type that just wraps an .ogg
   with the uncompressed byte size of .ogg file at the head of the binary.
