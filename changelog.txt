@@ -1,4 +1,8 @@
 [changelog]
+  [1373-20260407] - Further modification of stb_vorbis. Working on improving
+  sound managing. Added small custom audio file type that just wraps an .ogg
+  with the uncompressed byte size of .ogg file at the head of the binary.
+
   [1372-20260406] - Fixed crackling bug and stb_vorbis now only using my memory
   model, no mallocs/frees, just got to make sure I'm not breaking anything by
   popping the full memory arena instead of calling the default stb deinit/free,
