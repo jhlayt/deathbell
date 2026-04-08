@@ -1,4 +1,6 @@
 [changelog]
+  [1380-20260409] - Game 1-134.
+
   [1379-20260408] - Few bug fixes. Game 1-133. Going to stop calling it prototyping now.
   [1378-20260408] - Fixed a few bugs with hotloading. And one pretty major bug
   with scratch arena, kinda surpised it hadn't caused a big issue already.
