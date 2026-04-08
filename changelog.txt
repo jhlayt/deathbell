@@ -1,4 +1,6 @@
 [changelog]
+  [1377-20260408] - Added 'don't frustum cull' tag to level stuff.
+
   [1376-20260407] - Prototyping 1-132.
   [1375-20260407] - Move audio stuff, in a pretty good spot rn, further
   integration of sound banks etc. Kinda have a duplicated api for platform and
