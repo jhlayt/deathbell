@@ -1,4 +1,6 @@
 [changelog]
+  [1384-20260410] - Music stuff.
+
   [1383-20260409] - Now stomping over audio voices if no free voices are
   available, TODO: stomp only over non-looped voices.
   [1382-20260409] - Game 1-136.
