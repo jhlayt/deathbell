@@ -1,4 +1,6 @@
 [changelog]
+  [1385-20260411] - Music stuff.
+
   [1384-20260410] - Music stuff.
 
   [1383-20260409] - Now stomping over audio voices if no free voices are
