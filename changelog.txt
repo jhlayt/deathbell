@@ -1,4 +1,6 @@
 [changelog]
+  [1386-20260412] - Music & shader stuff.
+
   [1385-20260411] - Music stuff.
 
   [1384-20260410] - Music stuff.
