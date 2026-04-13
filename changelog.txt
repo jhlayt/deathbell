@@ -1,4 +1,6 @@
 [changelog]
+  [1387-20260413] - Some testing stuff, research & art.
+
   [1386-20260412] - Music & shader stuff.
 
   [1385-20260411] - Music stuff.
