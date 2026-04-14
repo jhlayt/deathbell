@@ -1,4 +1,6 @@
 [changelog]
+  [1389-20260414] - Blender tooling stuff.
+
   [1388-20260413] - Improvements to the blender scripts, handling stages
   (previously 'levels', TeamICO call their levels 'stages' and I want to be cool
   too!) a bit differently, moving to a 'mega' file authoring architecture
