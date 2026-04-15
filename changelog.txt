@@ -1,4 +1,6 @@
 [changelog]
+  [1390-20260415] - Some file busy work.
+
   [1389-20260414] - Blender tooling stuff.
 
   [1388-20260413] - Improvements to the blender scripts, handling stages
