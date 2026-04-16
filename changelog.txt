@@ -1,4 +1,6 @@
 [changelog]
+  [1392-20260416] - Blender tooling. Game 1-137.
+
   [1391-20260415] - Blender tooling.
   [1390-20260415] - Some file busy work.
 
