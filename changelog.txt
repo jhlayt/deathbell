@@ -1,4 +1,6 @@
 [changelog]
+  [1413-20260427] - Game 1-157.
+
   [1412-20260426] - Debugging some ssao and shadow mapping artifacts. SSAO is
   better now, I may just end up implementing cascaded shadows at some point.
 
