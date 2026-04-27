@@ -1,4 +1,8 @@
 [changelog]
+  [1414-20260427] - Minor change to collision bounds for animated models, was
+  nice having per-animation-frame accurate bounds for AABB collisions, but it is
+  causing too much instability, so I'm just using the first frame's model bounds
+  for all frames, much more stable.
   [1413-20260427] - Game 1-157.
 
   [1412-20260426] - Debugging some ssao and shadow mapping artifacts. SSAO is
