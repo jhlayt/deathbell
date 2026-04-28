@@ -1,4 +1,6 @@
 [changelog]
+  [1415-20260428] - Game 1-158.
+
   [1414-20260427] - Minor change to collision bounds for animated models, was
   nice having per-animation-frame accurate bounds for AABB collisions, but it is
   causing too much instability, so I'm just using the first frame's model bounds
