@@ -1,4 +1,5 @@
 [changelog]
+  [1417-20260429] - Game 1-160.
   [1416-20260429] - Game 1-159. Added a load of helper curve functions for
   lerping.
 
