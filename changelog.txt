@@ -1,4 +1,6 @@
 [changelog]
+  [1420-20260502] - Artwork.
+
   [1419-20260501] - Artwork.
 
   [1418-20260430] - Artwork.
