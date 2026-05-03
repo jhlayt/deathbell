@@ -1,4 +1,6 @@
 [changelog]
+  [1423-20260503] - Temporary fix for collision jitter when close to border of
+  triangle soup cell. Added local translation for parented transform stuff.
   [1422-20260503] - Art + Game 1-161.
   [1421-20260503] - Art stuff.
 
