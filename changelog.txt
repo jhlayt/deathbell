@@ -1,4 +1,5 @@
 [changelog]
+  [1425-20260504] - Fixed some issues with transform parenting maths.
   [1424-20260504] - Some changes to transform local/world stuff for keeping
   child transform offset.
 
