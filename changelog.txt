@@ -1,4 +1,6 @@
 [changelog]
+  [1429-20260506] - Better verlet handling. Game 1-164.
+
   [1428-20260505] - Got the old sdf rendering working again, was rendering the
   verlet point with sdf spheres, but I'm not sure it will look that great,
   probably make dynamic meshes from the verlet at some point? Game 1-163.
