@@ -1,4 +1,6 @@
 [changelog]
+  [1430-20260506] - Some minor improvements to collisions. Added collision for
+  verlet simulation.
   [1429-20260506] - Better verlet handling. Game 1-164.
 
   [1428-20260505] - Got the old sdf rendering working again, was rendering the
