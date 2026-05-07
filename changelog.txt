@@ -1,4 +1,6 @@
 [changelog]
+  [1432-20260507] - Game 1-166.
+
   [1431-20260506] - Game 1-165.
   [1430-20260506] - Some minor improvements to collisions. Added collision for
   verlet simulation.
