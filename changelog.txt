@@ -1,4 +1,6 @@
 [changelog]
+  [1433-20260508] - Game 1-167. Verlet improvements.
+
   [1432-20260507] - Game 1-166.
 
   [1431-20260506] - Game 1-165.
