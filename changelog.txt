@@ -1,4 +1,6 @@
 [changelog]
+  [1441-20260512] - Fixed a few bugs with the new shader stuff. Shaders now
+  using more modular util shader includes now.
   [1440-20260512] - Shader includes are now specified per file, including my
   shared shader utils all over the place was slowing down shader compile times
   considerably. Going to split up the main shared utils now.
