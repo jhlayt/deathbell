@@ -1,4 +1,7 @@
 [changelog]
+  [1440-20260512] - Shader includes are now specified per file, including my
+  shared shader utils all over the place was slowing down shader compile times
+  considerably. Going to split up the main shared utils now.
   [1439-20260512] - Game 1-168.
 
   [1438-20260511] - Mostly final version for raymarched volumetric point lights.
