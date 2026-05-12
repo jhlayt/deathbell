@@ -1,4 +1,6 @@
 [changelog]
+  [1439-20260512] - Game 1-168.
+
   [1438-20260511] - Mostly final version for raymarched volumetric point lights.
 
   [1437-20260510] - More raymarching.
