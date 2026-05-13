@@ -1,4 +1,5 @@
 [changelog]
+  [1446-20260513] - Few bug fixes around memory arena debug hud.
   [1445-20260513] - Game 1-170.
   [1444-20260513] - Game 1-169.
   [1443-20260513] - Bug fix for checking if trying to destroy 0th primitive arena (permanent one that shouldn't get destroyed).
