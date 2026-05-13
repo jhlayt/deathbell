@@ -1,4 +1,5 @@
 [changelog]
+  [1445-20260513] - Game 1-170.
   [1444-20260513] - Game 1-169.
   [1443-20260513] - Bug fix for checking if trying to destroy 0th primitive arena (permanent one that shouldn't get destroyed).
   [1442-20260513] - Platform layer shader stuff now stores a debug hash, so
