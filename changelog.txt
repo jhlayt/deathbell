@@ -1,4 +1,6 @@
 [changelog]
+  [1449-20260514] - Shaders are now compiled on a separate thread.
+  [1448-20260514] - Bug fixes.
   [1447-20260514] - Bug fixes.
 
   [1446-20260513] - Few bug fixes around memory arena debug hud.
