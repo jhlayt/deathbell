@@ -1,4 +1,6 @@
 [changelog]
+  [1450-20260515] - Load of minor changes to get immediate window drawing with a minimal splash screen, then the rest of the core loads.
+
   [1449-20260514] - Shaders are now compiled on a separate thread.
   [1448-20260514] - Bug fixes.
   [1447-20260514] - Bug fixes.
