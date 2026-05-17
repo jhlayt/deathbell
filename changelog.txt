@@ -1,4 +1,6 @@
 [changelog]
+  [1452-20260517] - Game 1-171.
+
   [1451-20260516] - Some bug fixes and further improvements to immediate draw on
   launch.
 
