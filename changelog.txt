@@ -1,4 +1,7 @@
 [changelog]
+  [1455-20260519] - Fixed a few bugs with hotload, mainly around UI resetting
+  sliders.
+
   [1454-20260518] - Runtime recompilation no longer asserts if new dll failed to
   compile, it just continues with the existing dll in memory. Now displaying
   compile error text as well as all compiler errors to the runtime with text one
