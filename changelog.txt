@@ -1,4 +1,6 @@
 [changelog]
+  [1456-20260519] - Commit before doing some large changes to memory_arena debug
+  handling.
   [1455-20260519] - Fixed a few bugs with hotload, mainly around UI resetting
   sliders.
 
