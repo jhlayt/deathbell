@@ -1,4 +1,7 @@
 [changelog]
+  [1458-20260520] - Various bug fixes, testing release build again, have split
+  out some build helper routines that can be called thru **argv. Few changes
+  to shader compile thread data handling.
   [1457-20260520] - New memory arena debug handling stuff is mostly done,
   reporting of accurate memory usage/totals seems to be more correct now.
 
