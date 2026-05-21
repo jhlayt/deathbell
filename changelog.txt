@@ -1,4 +1,6 @@
 [changelog]
+  [1459-20260521] - Cleanup, debugging release build.
+
   [1458-20260520] - Various bug fixes, testing release build again, have split
   out some build helper routines that can be called thru **argv. Few changes
   to shader compile thread data handling.
