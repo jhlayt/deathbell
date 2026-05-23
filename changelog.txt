@@ -1,4 +1,6 @@
 [changelog]
+  [1461-20260523] - Working on settings stuff.
+
   [1460-20260522] - Cleanup.
 
   [1459-20260521] - Cleanup, debugging release build.
