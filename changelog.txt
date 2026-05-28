@@ -1,4 +1,5 @@
 [changelog]
+  [1472-20260528] - Game 1-180. Few minor changes to core stuff.
   [1471-20260528] - Game 1-179.
 
   [1470-20260527] - Game 1-178. Few changes to core ui.
