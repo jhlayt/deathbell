@@ -1,4 +1,5 @@
 [changelog]
+  [1478-20260530] - Game 1-185.
   [1477-20260530] - Added text support for '\n' char in text string (not yet
   tested for double byte encoding langs).
   [1476-20260530] - Game 1-184.
