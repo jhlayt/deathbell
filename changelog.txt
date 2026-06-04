@@ -1,4 +1,6 @@
 [changelog]
+  [1483-20260604] - Hotload memory arena bugfix.
+
   [1482-20260603] - Game 1-189.
 
   [1481-20260602] - Game 1-188.
