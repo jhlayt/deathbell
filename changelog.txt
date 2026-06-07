@@ -1,4 +1,6 @@
 [changelog]
+  [1487-20260607] - Game 1-193.
+
   [1486-20260606] - Few changes to light tracking. Game 1-192.
   [1485-20260606] - Game 1-191.
 
