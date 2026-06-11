@@ -1,4 +1,5 @@
 [changelog]
+  [1493-20260611] - Game 1-200.
   [1492-20260611] - Some changes to camera encompass stuff for the 1000th time,
   added shadow light distance render setting. Game 1-199.
 
