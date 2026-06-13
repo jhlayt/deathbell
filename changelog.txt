@@ -1,4 +1,6 @@
 [changelog]
+  [1497-20260613] - Game 1-203.
+
   [1496-20260612] - Game 1-202.
   [1495-20260612] - Found+fixed nasty bug with locators getting incorrect normalised
   directions.
