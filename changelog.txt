@@ -1,4 +1,8 @@
 [changelog]
+  [1500-20260614] - Some changes to collision floors/wall handling. Also now
+  setting 'is_sliding' and 'is_falling' in collision.cc for resolve_colliders.
+  Game 1-206.
+
   [1499-20260613] - Game 1-205.
   [1498-20260613] - Game 1-204.
   [1497-20260613] - Game 1-203.
