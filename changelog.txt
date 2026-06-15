@@ -1,4 +1,7 @@
 [changelog]
+  [1501-20260615] - Added double tap state for keyboard+mouse input. Fixed a few
+  minor bugs with input state updating. Going to add double tap for gamepad now.
+
   [1500-20260614] - Some changes to collision floors/wall handling. Also now
   setting 'is_sliding' and 'is_falling' in collision.cc for resolve_colliders.
   Game 1-206.
