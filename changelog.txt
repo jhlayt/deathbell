@@ -1,4 +1,7 @@
 [changelog]
+  [1502-20260616] - Added double tap state for gamepad. + couple minor changes
+  to gamepad.cc.
+
   [1501-20260615] - Added double tap state for keyboard+mouse input. Fixed a few
   minor bugs with input state updating. Going to add double tap for gamepad now.
 
