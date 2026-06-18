@@ -1,4 +1,5 @@
 [changelog]
+  [1505-20260618] - Game 1-208.
   [1504-20260618] - Added colliding flags to collision state response.
 
   [1503-20260617] - Game 1-207.
