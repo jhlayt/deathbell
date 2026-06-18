@@ -1,4 +1,6 @@
 [changelog]
+  [1504-20260618] - Added colliding flags to collision state response.
+
   [1503-20260617] - Game 1-207.
 
   [1502-20260616] - Added double tap state for gamepad. + couple minor changes
