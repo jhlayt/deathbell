@@ -1,4 +1,8 @@
 [changelog]
+  [1511-20260620] - Game 1-213. Rewrote the point light raymarching stuff, same
+  general idea, just without stepping along the ray, basically just building it
+  based on a dot product from the uv constructred ray and light pos. Much faster
+  but still have a few edge cases to handle.
   [1510-20260620] - Game 1-212. Few changes to build.bat.
 
   [1509-20260619] - Game 1-211.
