@@ -1,4 +1,6 @@
 [changelog]
+  [1513-20260622] - Cleanup.
+
   [1512-20260621] - Added some edge cases and improvements to the point light
   raymarching. 
 
