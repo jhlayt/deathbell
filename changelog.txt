@@ -1,4 +1,6 @@
 [changelog]
+  [1518-20260625] - Work on handling animation stuff for exporter.
+
   [1517-20260624] - Blender exporter basic mesh engine format working.
   [1516-20260624] - Working on Blender tool for exporting models directly to
   engine format (Python is pain).
