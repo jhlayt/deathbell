@@ -1,4 +1,7 @@
 [changelog]
+  [1516-20260624] - Working on Blender tool for exporting models directly to
+  engine format (Python is pain).
+
   [1515-20260623] - Art.
   [1514-20260623] - Game 1-214.
 
