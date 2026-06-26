@@ -1,4 +1,6 @@
 [changelog]
+  [1520-20260626] - Work on exporter.
+
   [1519-20260625] - Basics of locators and animation working on exporter.
   [1518-20260625] - Work on handling animation stuff for exporter.
 
