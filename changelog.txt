@@ -1,4 +1,6 @@
 [changelog]
+  [1522-20260627] - More exporter/python tooling.
+
   [1521-20260626] - Exporter work. Working on a load of python helpers for
   setting up cutscene stuff and for creating model sequences from animations.
   [1520-20260626] - Work on exporter.
