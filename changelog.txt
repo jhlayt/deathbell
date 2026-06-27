@@ -1,4 +1,5 @@
 [changelog]
+  [1524-20260627] - Animation stuff mostly all working now.
   [1523-20260627] - And more exporter/python tooling.
   [1522-20260627] - More exporter/python tooling.
 
