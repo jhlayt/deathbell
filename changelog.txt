@@ -1,4 +1,5 @@
 [changelog]
+  [1523-20260627] - And more exporter/python tooling.
   [1522-20260627] - More exporter/python tooling.
 
   [1521-20260626] - Exporter work. Working on a load of python helpers for
