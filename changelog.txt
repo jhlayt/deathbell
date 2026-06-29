@@ -1,4 +1,6 @@
 [changelog]
+  [1527-20260630] - Updating the entity metaprog to use new exporter stuff.
+
   [1526-20260629] - Exporter pretty much done? Going to start on cutscene stuff.
 
   [1525-20260628] - Exporter work.
