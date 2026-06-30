@@ -1,4 +1,6 @@
 [changelog]
+  [1529-20260630] - Got cutscene playback working in engine for transform only
+  part of cutscene.
   [1528-20260630] - Work on cutscene stuff.
   [1527-20260630] - Updating the entity metaprog to use new exporter stuff.
 
