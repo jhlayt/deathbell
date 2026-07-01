@@ -1,4 +1,7 @@
 [changelog]
+  [1530-20260701] - Cutscene stuff. Added some custom playback tools for
+  blender.
+
   [1529-20260630] - Got cutscene playback working in engine for transform only
   part of cutscene.
   [1528-20260630] - Work on cutscene stuff.
