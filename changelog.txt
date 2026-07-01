@@ -1,4 +1,7 @@
 [changelog]
+  [1531-20260701] - Cutscene improvements. Handling camera keyframes and better
+  transform handling. Exporting markers correctly, just need to implement them
+  engine-side.
   [1530-20260701] - Cutscene stuff. Added some custom playback tools for
   blender.
 
