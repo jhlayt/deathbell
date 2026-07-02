@@ -1,4 +1,7 @@
 [changelog]
+  [1532-20260702] - Few minor changes to core camera. Cutscene now uses
+  keyframed sensor/fov from Blender's camera.
+
   [1531-20260701] - Cutscene improvements. Handling camera keyframes and better
   transform handling. Exporting markers correctly, just need to implement them
   engine-side.
