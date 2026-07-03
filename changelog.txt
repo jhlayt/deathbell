@@ -1,4 +1,6 @@
 [changelog]
+  [1534-20260703] - Game 1-215.
+
   [1533-20260702] - Interpolating cutscene camera between frames.
   [1532-20260702] - Few minor changes to core camera. Cutscene now uses
   keyframed sensor/fov from Blender's camera.
