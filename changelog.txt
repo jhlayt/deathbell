@@ -1,4 +1,5 @@
 [changelog]
+  [1537-20260704] - Added screen transition (black fade only for now) to core.
   [1536-20260704] - Some minor changes to cutscene exporter.
 
   [1535-20260703] - Game 1-216.
