@@ -1,4 +1,6 @@
 [changelog]
+  [1536-20260704] - Some minor changes to cutscene exporter.
+
   [1535-20260703] - Game 1-216.
   [1534-20260703] - Game 1-215.
 
