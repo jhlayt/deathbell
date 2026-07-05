@@ -1,4 +1,7 @@
 [changelog]
+  [1538-20260705] - Added few more blender tools, for copy mesh over frames, and
+  for really simple mesh vertex lerp over frames. Few other minor changes.
+
   [1537-20260704] - Added screen transition (black fade only for now) to core.
   [1536-20260704] - Some minor changes to cutscene exporter.
 
