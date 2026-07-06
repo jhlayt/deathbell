@@ -1,4 +1,6 @@
 [changelog]
+  [1539-20260706] - Working on quantised data for model exporter.
+
   [1538-20260705] - Added few more blender tools, for copy mesh over frames, and
   for really simple mesh vertex lerp over frames. Few other minor changes.
 
