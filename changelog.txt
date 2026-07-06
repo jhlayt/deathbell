@@ -1,4 +1,7 @@
 [changelog]
+  [1540-20260706] - Ok, quantising stuff working on exporter and importer now,
+  can quantise verts, uvs, and normals to various data types. Highest
+  quantisation is like 30% of full f32 filesize.
   [1539-20260706] - Working on quantised data for model exporter.
 
   [1538-20260705] - Added few more blender tools, for copy mesh over frames, and
