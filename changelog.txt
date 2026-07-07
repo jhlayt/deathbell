@@ -1,4 +1,7 @@
 [changelog]
+  [1541-20260707] - WIP putting cutscene resources into their own
+  render/resource/data arenas so I can wipe the entire thing.
+
   [1540-20260706] - Ok, quantising stuff working on exporter and importer now,
   can quantise verts, uvs, and normals to various data types. Highest
   quantisation is like 30% of full f32 filesize.
