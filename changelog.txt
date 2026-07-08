@@ -1,4 +1,6 @@
 [changelog]
+  [1543-20260708] - Artwork and planning.
+
   [1542-20260707] - Stabilising cutscene memory handling, working fine now with
   resets.
   [1541-20260707] - WIP putting cutscene resources into their own
