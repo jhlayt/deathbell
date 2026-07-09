@@ -1,4 +1,6 @@
 [changelog]
+  [1544-20260709] - Artwork.
+
   [1543-20260708] - Artwork and planning.
 
   [1542-20260707] - Stabilising cutscene memory handling, working fine now with
