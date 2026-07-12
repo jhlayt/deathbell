@@ -1,4 +1,7 @@
 [changelog]
+  [1548-20260712] - Few changes to transparency rendering, added painters
+  sorting and will probably remove all blend settings tomorrow. Few changes and
+  fixes to exporter and importer. Game 1-219.
   [1547-20260712] - Game 1-218. Added vertex colour to blender exporter.
 
   [1546-20260711] - Game 1-217. Few changes to blender exporter.
