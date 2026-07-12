@@ -1,4 +1,6 @@
 [changelog]
+  [1547-20260712] - Game 1-218. Added vertex colour to blender exporter.
+
   [1546-20260711] - Game 1-217. Few changes to blender exporter.
 
   [1545-20260710] - Artwork / slacking.
