@@ -1,4 +1,6 @@
 [changelog]
+  [1549-20260713] - Game 1-220. Fixed a couple bugs with cubemap srgb stuff.
+
   [1548-20260712] - Few changes to transparency rendering, added painters
   sorting and will probably remove all blend settings tomorrow. Few changes and
   fixes to exporter and importer. Game 1-219.
