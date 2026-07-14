@@ -1,4 +1,6 @@
 [changelog]
+  [1552-20260714] - Game 1-223. Few changes to camera transform. Some bug hunting.
+
   [1551-20260713] - Game 1-222.
   [1550-20260713] - Game 1-221.
   [1549-20260713] - Game 1-220. Fixed a couple bugs with cubemap srgb stuff.
