@@ -1,4 +1,5 @@
 [changelog]
+  [1554-20260715] - Few improvements/bug fixes.
   [1553-20260715] - Improvements to transform parenting etc, added few more
   helper functions. And the collision resolution now properly respects transform
   with parents. (for trisoup, not yet added changes for primitives)
