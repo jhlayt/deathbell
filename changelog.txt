@@ -1,4 +1,8 @@
 [changelog]
+  [1553-20260715] - Improvements to transform parenting etc, added few more
+  helper functions. And the collision resolution now properly respects transform
+  with parents. (for trisoup, not yet added changes for primitives)
+
   [1552-20260714] - Game 1-223. Few changes to camera transform. Some bug hunting.
 
   [1551-20260713] - Game 1-222.
