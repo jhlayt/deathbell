@@ -1,4 +1,7 @@
 [changelog]
+  [1557-20260717] - I've corrected the axis/quaternion inconsistency, I think.
+  Just need to fix the newly introducted camera bugs.
+
   [1556-20260716] - Some bug fixes and improvements. Hunting a maths convention
   bug, think I have some inconsistency with quaternion to rotation matrix?
 
