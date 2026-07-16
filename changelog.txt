@@ -1,4 +1,7 @@
 [changelog]
+  [1556-20260716] - Some bug fixes and improvements. Hunting a maths convention
+  bug, think I have some inconsistency with quaternion to rotation matrix?
+
   [1555-20260715] - Game 1-224.
   [1554-20260715] - Few improvements/bug fixes.
   [1553-20260715] - Improvements to transform parenting etc, added few more
