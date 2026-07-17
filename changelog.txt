@@ -1,4 +1,7 @@
 [changelog]
+  [1558-20260717] - Ok, axis/quaternion stuff should be all good now, fixed the
+  camera stuff as well, all the camera parenting and transform stuff seems to be
+  correct, working as expected at least.
   [1557-20260717] - I've corrected the axis/quaternion inconsistency, I think.
   Just need to fix the newly introducted camera bugs.
 
