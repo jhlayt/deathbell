@@ -1,4 +1,6 @@
 [changelog]
+  [1559-20260718] - Game 1-225.
+
   [1558-20260717] - Ok, axis/quaternion stuff should be all good now, fixed the
   camera stuff as well, all the camera parenting and transform stuff seems to be
   correct, working as expected at least.
