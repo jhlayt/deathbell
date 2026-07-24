@@ -1,4 +1,6 @@
 [changelog]
+  [1568-20260724] - Game 1-233.
+
   [1567-20260723] - Planning, game 1-232.
 
   [1566-20260722] - Cleanup + slacking.
