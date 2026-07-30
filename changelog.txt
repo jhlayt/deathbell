@@ -1,4 +1,6 @@
 [changelog]
+  [1574-20260730] - Slacker.
+
   [1573-20260729] - Cleanup + slacking.
 
   [1572-20260728] - Game 1-237.
