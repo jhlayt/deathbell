@@ -1,4 +1,6 @@
 [changelog]
+  [1575-20260731] - ...
+
   [1574-20260730] - Slacker.
 
   [1573-20260729] - Cleanup + slacking.
