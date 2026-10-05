@@ -1,4 +1,6 @@
 [changelog]
+  [1586-20261005] - Back to work. Planning & storyboarding.
+
   [1585-20260810] - Game 1-243.
 
   [1584-20260809] - Game 1-242.
