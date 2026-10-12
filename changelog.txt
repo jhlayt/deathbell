@@ -1,4 +1,6 @@
 [changelog]
+  [1589-20261012] - Stage layout and some new shaders.
+
   [1588-20261008] - Stage layout.
 
   [1587-20261006] - Stage layout.
