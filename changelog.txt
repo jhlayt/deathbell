@@ -1,4 +1,6 @@
 [changelog]
+  [1592-20261015] - Game 1-244.
+
   [1591-20261013] - More stage work, better structuring.
 
   [1590-20261012] - More stage layout. Couple bug fixes to shaders and alpha
