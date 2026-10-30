@@ -1,4 +1,6 @@
 [changelog]
+  [1593-20261030] - Game 1-245.
+
   [1592-20261015] - Game 1-244.
 
   [1591-20261013] - More stage work, better structuring.
