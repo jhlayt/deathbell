@@ -1,4 +1,5 @@
 [changelog]
+  [1595-20261031] - Artwork + Game 1-247.
   [1594-20261031] - Toggles for collision debug text. Game 1-246.
 
   [1593-20261030] - Game 1-245.
