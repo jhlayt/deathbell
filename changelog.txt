@@ -1,4 +1,5 @@
 [changelog]
+  [1605-20261107] - Added UI_INDEX selection from gamepad stick, not just dpad.
   [1604-20261107] - Game 1-253.
 
   [1603-20261106] - Game 1-252.
