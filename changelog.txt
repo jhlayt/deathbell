@@ -1,4 +1,6 @@
 [changelog]
+  [1607-20261108] - Game 1-255.
+
   [1606-20261107] - some core ui helper funcs. Game 1-254.
   [1605-20261107] - Added UI_INDEX selection from gamepad stick, not just dpad.
   [1604-20261107] - Game 1-253.
