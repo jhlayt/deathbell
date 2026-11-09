@@ -1,4 +1,6 @@
 [changelog]
+  [1609-20261109] - Fixed bug with blender exporter not correcting zy axis for
+  locator export. Fixed bug with locator rotation and parenting update.
   [1608-20261109] - Added pyramid and star debug primitive. Game 1-256.
 
   [1607-20261108] - Game 1-255.
