@@ -1,4 +1,6 @@
 [changelog]
+  [1608-20261109] - Added pyramid and star debug primitive. Game 1-256.
+
   [1607-20261108] - Game 1-255.
 
   [1606-20261107] - some core ui helper funcs. Game 1-254.
