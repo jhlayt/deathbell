@@ -1,4 +1,7 @@
 [changelog]
+  [1610-20261110] - Anotehr bug with blender exporter for locators parented to
+  bones.
+
   [1609-20261109] - Fixed bug with blender exporter not correcting zy axis for
   locator export. Fixed bug with locator rotation and parenting update.
   [1608-20261109] - Added pyramid and star debug primitive. Game 1-256.
