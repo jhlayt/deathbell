@@ -1,4 +1,6 @@
 [changelog]
+  [1611-20261111] - Commit before starting to implement full software renderer.
+
   [1610-20261110] - Anotehr bug with blender exporter for locators parented to
   bones.
 
