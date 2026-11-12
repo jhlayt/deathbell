@@ -1,4 +1,10 @@
 [changelog]
+  [1612-20261112] - More progress on software renderer. Might be getting cold
+  feet, will probably require some fairly invasive extensions of core systems to
+  get it rendering at full speed. Going to think some more about it over couple
+  of days, but don't want to get caught in a rabbit hole and not working on the
+  game.
+
   [1611-20261111] - Commit before starting to implement full software renderer.
 
   [1610-20261110] - Anotehr bug with blender exporter for locators parented to
