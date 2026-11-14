@@ -1,4 +1,7 @@
 [changelog]
+  [1613-20261114] - Software renderer, working on binning and threading, got
+  some issues with threading, but in principle the binning stuff is working.
+
   [1612-20261112] - More progress on software renderer. Might be getting cold
   feet, will probably require some fairly invasive extensions of core systems to
   get it rendering at full speed. Going to think some more about it over couple
