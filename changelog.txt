@@ -1,4 +1,7 @@
 [changelog]
+  [1614-20261115] - Threaded raster now working properly, going to do a few
+  optimisations.
+
   [1613-20261114] - Software renderer, working on binning and threading, got
   some issues with threading, but in principle the binning stuff is working.
 
