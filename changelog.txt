@@ -1,4 +1,8 @@
 [changelog]
+  [1615-20261115] - Software renderer working pretty well now, decent
+  performance, even without simd or optimised code, probably viable to render
+  game at a reduced resolution, would need to handle existing shader stuff and
+  lighting tho, will see.
   [1614-20261115] - Threaded raster now working properly, going to do a few
   optimisations.
 
