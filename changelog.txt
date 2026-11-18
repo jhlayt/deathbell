@@ -1,4 +1,6 @@
 [changelog]
+  [1616-20261118] - Game 1-257.
+
   [1615-20261115] - Software renderer working pretty well now, decent
   performance, even without simd or optimised code, probably viable to render
   game at a reduced resolution, would need to handle existing shader stuff and
